@@ -1,5 +1,5 @@
 body{
-    font-family: Calibri;
+    font-family: 'Crimson Pro', serif;
     text-align: left;
     line-height: 25px;
     margin: 5% 20%;
@@ -36,7 +36,16 @@ dl{
     height: 6%;
 }
 footer{
+    margin-top: 5%;
     text-align: right;
     margin-inline-end: 5%;
 
+}
+.redgit{
+    width: 320;
+    height: 320;
+}
+.fab{
+    color: gray;
+    font-size: 80px;
 }
